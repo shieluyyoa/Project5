@@ -16,6 +16,7 @@
 		06C17F3527BE99DB008AD599 /* Project5Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06C17F3427BE99DB008AD599 /* Project5Tests.swift */; };
 		06C17F3F27BE99DB008AD599 /* Project5UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06C17F3E27BE99DB008AD599 /* Project5UITests.swift */; };
 		06C17F4127BE99DB008AD599 /* Project5UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06C17F4027BE99DB008AD599 /* Project5UITestsLaunchTests.swift */; };
+		06C17F4E27BE9B2A008AD599 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 06C17F4D27BE9B2A008AD599 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		06C17F3A27BE99DB008AD599 /* Project5UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Project5UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		06C17F3E27BE99DB008AD599 /* Project5UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project5UITests.swift; sourceTree = "<group>"; };
 		06C17F4027BE99DB008AD599 /* Project5UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Project5UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		06C17F4D27BE9B2A008AD599 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				06C17F2627BE99DB008AD599 /* Assets.xcassets */,
 				06C17F2827BE99DB008AD599 /* LaunchScreen.storyboard */,
 				06C17F2B27BE99DB008AD599 /* Info.plist */,
+				06C17F4D27BE9B2A008AD599 /* start.txt */,
 			);
 			path = Project5;
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				06C17F2A27BE99DB008AD599 /* LaunchScreen.storyboard in Resources */,
+				06C17F4E27BE9B2A008AD599 /* start.txt in Resources */,
 				06C17F2727BE99DB008AD599 /* Assets.xcassets in Resources */,
 				06C17F2527BE99D9008AD599 /* Main.storyboard in Resources */,
 			);
